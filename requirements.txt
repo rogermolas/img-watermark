@@ -1,0 +1,5 @@
+Flask
+uwsgi
+Pillow
+
+# gunicorn if needed
